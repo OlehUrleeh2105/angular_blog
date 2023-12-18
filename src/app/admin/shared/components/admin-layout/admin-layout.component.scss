@@ -1,0 +1,12 @@
+.navbar {
+  li.active a {
+    background: #fff;
+    border-radius: 5px;
+  }
+
+  li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
